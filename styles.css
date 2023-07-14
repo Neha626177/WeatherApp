@@ -234,8 +234,10 @@ h1 {
 @media (max-width:480px) {
      .parameter p:first-of-type {
   font-size: 0.6rem;
-
-
+}
+.wrapper {
+  width: 100vw;
+ height: 100vh;
 }
     
 }
